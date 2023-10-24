@@ -5,7 +5,7 @@ This project involves building a Notetaking app for day-to-day use. Here are the
 The project focuses on creating a practical Notetaking app designed for everyday use. Users can view stored notes upon loading the app and have the ability to add new notes.
 Each note includes a title and a rich-text description with various formatting options such as alignment, bold text, and centering. Behind the scenes, the app interacts with Salesforce to store and manage note records.
 Key functionalities include creating, retrieving, updating, and deleting notes. 
-The Note taking app is hosted on a live server. You can create your notes by visiting the following URL: [Note taking app](
+The Note taking app is hosted on a live server. You can check how the application looks by visiting the following URL: [Note taking app](
 https://sahanaportfolio-dev-ed.develop.my.site.com/note-taking-app)
 
 ### Technologies Used 🛠
